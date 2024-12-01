@@ -1,4 +1,4 @@
-# Mechaloid-Gobnu-Giga
+# Mechaloid Gobnu Giga
 A HS2 / AI-Shoujo Studio Item.
 
 ![AI_2024-12-01-23-33-20-828](https://github.com/user-attachments/assets/6b0645e8-b5f8-4214-91b2-d8e6a6af8776)
